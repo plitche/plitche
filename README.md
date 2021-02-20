@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 :wave: Hello👋 My name is Yongsoo, I am studying to be interesting back-end developer.
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3">:sparkles: Tech Stack</h3>
+<p> Techs that I recently used </p>
 
-<p align="center"> Techs that I recently used </p>
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
