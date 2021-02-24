@@ -32,4 +32,4 @@ Hello👋 My name is Yongsoo, I am studying to be interesting back-end developer
 </p>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plitche&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plitche&show_icons=true&theme=dark)
