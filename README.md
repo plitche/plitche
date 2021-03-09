@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <br/>
 
 Hello👋 My name is Yongsoo, I am studying to be interesting back-end developer.
-> One day at a time!
+> One day at a time!   
 > 꾸준히 하루에 하나씩!
 <br/>
-
 
 ### :sparkles: Tech Stack 
 <p>
