@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 <br/>
 
 Hello👋 My name is Yongsoo, I am studying to be interesting back-end developer.
+> One day at a time!
+> 꾸준히 하루에 하나씩!
 <br/>
 
+
 ### :sparkles: Tech Stack 
-(that I recently used)
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
