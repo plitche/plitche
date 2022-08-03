@@ -40,5 +40,5 @@ Any **feedback** or **question** is always welcome!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=plitche&theme=dark)](https://github.com/plitche)
 
 ### 🍞 Blogs
-[GitHub Blog](https://plitche.github.io){:target="_blank"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[T-Story Blog](https://plitche.tistory.com){:target="_blank"}
+<a href="https://plitche.github.io">Gifthub Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="[https://plitche.github.io](https://plitche.tistory.com)">T-Story Blog</a>
