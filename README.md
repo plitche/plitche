@@ -37,3 +37,6 @@ Any **feedback** or **question** is always welcome!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plitche&show_icons=true&theme=chartreuse-dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=plitche&theme=dark)](https://github.com/plitche)
+
+<p>![GitHub Blog](https://plitche.github.io)</p>
+<p>![T-Story Blog](https://plitche.tistory.com)</p>
