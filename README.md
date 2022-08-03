@@ -41,4 +41,4 @@ Any **feedback** or **question** is always welcome!
 
 ### 🍞 Blogs
 <a href="https://plitche.github.io">Gifthub Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="[https://plitche.github.io](https://plitche.tistory.com)">T-Story Blog</a>
+<a href="https://plitche.tistory.com">T-Story Blog</a>
