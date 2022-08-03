@@ -34,10 +34,11 @@ Any **feedback** or **question** is always welcome!
 </p>
 <br/>
 
+### 🎡 Activity Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plitche&show_icons=true&theme=chartreuse-dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=plitche&theme=dark)](https://github.com/plitche)
 
-[GitHub Blog](https://plitche.github.io)
-<br/>
-[T-Story Blog](https://plitche.tistory.com)
+### 🍞 Blogs
+[GitHub Blog](https://plitche.github.io){:target="_blank"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[T-Story Blog](https://plitche.tistory.com){:target="_blank"}
