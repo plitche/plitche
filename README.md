@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 Hello👋 My name is Yongsoo(Plitche), I am Junior Java back-end developer.
 Any **feedback** or **question** is always welcome! 
 > One day at a time!   
-> 꾸준히 하루에 하나씩!!!!!!
-> ~~요즘 초심이 약해졌습니다.ㅠㅠ 다시 화이팅!~~
+> 꾸준히 하루에 하나씩
 <br/>
 
 ### :sparkles: Tech Stack 
@@ -43,4 +42,4 @@ Any **feedback** or **question** is always welcome!
 ### 🍞 Blogs
 <a href="https://plitche.github.io">Gifthub Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://plitche.tistory.com">T-Story Blog</a><br/>
-~~현재 github blog에서 t-story로 블로그를 이전 하고 있습니다. 완료되면 해당 링크는 삭제하겠습니다.~~
+~~현재 github blog에서 t-story로 블로그를 이전 중에 있습니다. 완료되면 해당 링크는 삭제하겠습니다.~~
