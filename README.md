@@ -42,4 +42,3 @@ Any **feedback** or **question** is always welcome!
 ### 🍞 Blogs
 <a href="https://plitche.github.io">Gifthub Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://plitche.tistory.com">T-Story Blog</a><br/>
-~~현재 github blog에서 t-story로 블로그를 이전 중에 있습니다. 완료되면 해당 링크는 삭제하겠습니다.~~
