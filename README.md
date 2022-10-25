@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 <div style="text-align: center">
 <p>Hello👋 My name is Yongsoo(Plitche), I am Junior Java back-end developer.</p>
 <p>Any <strong>feedback</strong> or <strong>question</strong> is always welcome! </p>
-</div>
-> One day at a time!   
-> 꾸준히 하루에 하나씩
+</div>  
+
+<p style="font-weight: bold">> One day at a time!</p>
+<br/>
+<p style="color: gray">> 꾸준히 하루에 하나씩</p>
 <br/>
 
 ### :sparkles: Tech Stack 
