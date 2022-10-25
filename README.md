@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplitche&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/plitche?label=Follow)
 <br/>
 
-<div style="text-align: center">
-<p>Hello👋 My name is Yongsoo(Plitche), I am Junior Java back-end developer.</p>
-<p>Any <strong>feedback</strong> or <strong>question</strong> is always welcome! </p>
-</div>  
+<center>
+  <p>Hello👋 My name is Yongsoo(Plitche), I am Junior Java back-end developer.</p>
+  <p>Any <strong>feedback</strong> or <strong>question</strong> is always welcome! </p>
+</center>  
 
+<center>
 <p style="font-weight: bold">> One day at a time!</p>
-<br/>
 <p style="color: gray">> 꾸준히 하루에 하나씩</p>
+</center>
 <br/>
 
 ### :sparkles: Tech Stack 
