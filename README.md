@@ -46,6 +46,5 @@ Here are some ideas to get you started:
 
 ### 🍞 Blogs
 <a href="https://plitche.github.io">Gifthub Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://plitche.tistory.com" target="_blank">T-Story Blog</a><br/> -->
-[T-Story Blog](https://plitche.tistory.com){:target="_blank"}
-
+<a href="https://plitche.tistory.com/" target="_blank">T-Story Blog</a>
+<a href="https://www.google.com/" target="_blank">새 탭에서 열기</a>
