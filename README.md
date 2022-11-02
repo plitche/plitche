@@ -46,4 +46,6 @@ Here are some ideas to get you started:
 
 ### 🍞 Blogs
 <a href="https://plitche.github.io">Gifthub Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://plitche.tistory.com" target="_blank">T-Story Blog</a><br/>
+<!-- <a href="https://plitche.tistory.com" target="_blank">T-Story Blog</a><br/> -->
+[T-Story Blog](https://plitche.tistory.com){:target="_blank"}
+
