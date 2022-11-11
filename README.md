@@ -45,5 +45,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=plitche&theme=dark)](https://github.com/plitche)
 
 ### 🍞 Blogs
-<a href="https://plitche.github.io">Gifthub Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://plitche.tistory.com/" target="_blank">T-Story Blog</a>
