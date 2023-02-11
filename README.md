@@ -22,6 +22,7 @@
 <center>
 <p style="font-weight: bold">> One day at a time!</p>
 <p style="color: gray">> 꾸준히 하루에 하나씩</p>
+<p style="color: gray">> These days are burning out times..</p>
 </center>
 <br/>
 
